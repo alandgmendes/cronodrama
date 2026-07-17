@@ -17,7 +17,7 @@ if (diferencaDias % 2 === 0) {
     imagem.src = "img/par.jpg";
     imagem.alt = "Maria";
 } else {
-    nome.textContent = "João";
+    nome.textContent = "Alandouglas";
     imagem.src = "img/impar.jpg";
     imagem.alt = "Alandouglas";
 }
